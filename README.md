@@ -1,7 +1,7 @@
 # Privet 👋, I'm Ristu />
 
 <div align="center">
-<img hight="200" width="200" alt="GIF" align="center" src="https://media.giphy.com/media/HEFATVQvnjXg3vCGPu/giphy.gif">
+<img hight="400" width="400" alt="GIF" align="center" src="https://media.giphy.com/media/HEFATVQvnjXg3vCGPu/giphy.gif">
 
 </br>
 </br>
