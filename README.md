@@ -3,11 +3,11 @@
 <!-- <img hight="400" width="400" alt="GIF" align="center" src="https://media.giphy.com/media/HEFATVQvnjXg3vCGPu/giphy.gif"> -->
 
 <h3> 👨🏻‍💻 About Me </h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
 
 - 🔭 &nbsp; I’m currently Learning Javascript Application Development
 - 🤔 &nbsp; Exploring new technologies and curious about new skill.
-- 🎓 &nbsp; Studying Informatics, computer programming and Mathematics.
+- 🎓 &nbsp; Studying Informatics.
 - 💼 &nbsp; Novice in Android and Frond-End Development.
 - 🌱 &nbsp; Interested in cyber Security.
 - ✍️ &nbsp; Watching Anime and Gaming also trying out latest design trends as hobbies.
