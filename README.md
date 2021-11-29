@@ -59,8 +59,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://www.instagram.com/ristuu_aji/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:xxristuaji141@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/assaultwarfare1/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
-
 </p>
+
+JOIN WITH ME
+<a href="https://discord.com/invite/gNw5w2r"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 <br>
 <br>
