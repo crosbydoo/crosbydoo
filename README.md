@@ -11,7 +11,7 @@
 - 💼 &nbsp; Novice in Android and Frond-End Development.
 - 🌱 &nbsp; Interested in cyber Security.
 - ✍️ &nbsp; Watching Anime and Gaming as Hobbies.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
 ### Languages 🛠 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
