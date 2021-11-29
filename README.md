@@ -11,7 +11,21 @@
 - 💼 &nbsp; Novice in Android and Frond-End Development.
 - 🌱 &nbsp; Interested in cyber Security.
 - ✍️ &nbsp; Watching Anime and Gaming as Hobbies.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Dart | Java | C++ | HTML | CSS | JavaScript 
+- 🌐 &nbsp; Android | flutter | J2EE
+- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot
 
 
 ### Contact with me 📝
