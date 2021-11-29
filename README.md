@@ -2,10 +2,10 @@
 
 <div align="center">
 <img hight="400" width="400" alt="GIF" align="center" src="https://media.giphy.com/media/HEFATVQvnjXg3vCGPu/giphy.gif">
-<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500"/>
 
 - 🔭 &nbsp; I’m currently Learning Javascript Application Development
 - 🤔 &nbsp; Exploring new technologies and curious about new skill.
