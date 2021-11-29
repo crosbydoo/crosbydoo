@@ -1,14 +1,9 @@
 # Privet 👋, I'm Ristu <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<div align="center">
-<img hight="400" width="400" alt="GIF" align="center" src="https://media.giphy.com/media/HEFATVQvnjXg3vCGPu/giphy.gif">
-<br>
-<br>
-<br>
-<br>
+<!-- <img hight="400" width="400" alt="GIF" align="center" src="https://media.giphy.com/media/HEFATVQvnjXg3vCGPu/giphy.gif"> -->
 
 <h3> 👨🏻‍💻 About Me </h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500"/>
 
 - 🔭 &nbsp; I’m currently Learning Javascript Application Development
 - 🤔 &nbsp; Exploring new technologies and curious about new skill.
