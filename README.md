@@ -10,6 +10,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
 
+ <div align="left">
 - 🔭 &nbsp; I’m currently Learning Javascript Application Development
 - 🤔 &nbsp; Exploring new technologies and curious about new skill.
 - 🎓 &nbsp; Studying Informatics, computer programming and Mathematics.
