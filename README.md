@@ -5,9 +5,10 @@
 <br>
 <br>
 <br>
+<br>
 
-<h3 align="left"> 👨🏻‍💻 About Me </h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+<h3> 👨🏻‍💻 About Me </h3>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
 
 - 🔭 &nbsp; I’m currently Learning Javascript Application Development
 - 🤔 &nbsp; Exploring new technologies and curious about new skill.
