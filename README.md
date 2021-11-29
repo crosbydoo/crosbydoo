@@ -66,6 +66,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <div align="center"> 
  <h2 align="center"> Github Statistics 📈 </h2>
