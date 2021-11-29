@@ -1,50 +1,45 @@
-<h3 title="hehehe"> Hey 👋, I'm Ristu!</h3>
+# Privet 👋, I'm Ristu />
 
-<a href="https://www.linkedin.com/in/ristu-aji-5a553b207/">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/ristuu_aji/">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/ristu.aji">
-  <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/ristuaji">
-  <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+</div>
 
+</br>
+</br>
+</br>
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+## I'm a Computer Science and Engineering Student  
 
-<br />
-<br />
+- 👨‍💻 I’m currently learning on web and mobile development technologies.
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+---
 
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
- 
+<!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+### Contact with me 📝
 
-**About Me!**
+ <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-- 👨🏽‍💻 I’m currently a Informatics student 
-- 🌱 I’m currently exploring Javascript with a big interest in Javascript Fundamental Development. 
-- 🤔 My interest lies in front end web development.
-- 💬 Ask me about anything, I'll answer as i can!
-- 📫 Email me at [xxristuaji141@gmail.com](mailto:xxristuaji141@gmail.com).
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alfansyahgg/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/AlfansyahNP/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/alfansyahgg)
 
+### Languages and Tools 🛠 
 
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Languages and Tools:**  
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jas-Script&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Ristu's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
+ <h2 align="center"> Github Statistics 📈 </h2>
+  <div align="center"> 
+<!-- <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alfansyahgg&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a> -->
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfansyahgg&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
