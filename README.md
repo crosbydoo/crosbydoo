@@ -10,7 +10,7 @@
 - 🎓 &nbsp; Studying Informatics.
 - 💼 &nbsp; Novice in Android and Frond-End Development.
 - 🌱 &nbsp; Interested in cyber Security.
-- ✍️ &nbsp; Watching Anime and Gaming also trying out latest design trends as hobbies.
+- ✍️ &nbsp; Watching Anime and Gaming as Hobbies.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
