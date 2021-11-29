@@ -65,9 +65,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  <h2 align="center"> Github Statistics 📈 </h2>
   <div align="center"> 
 <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alfansyahgg&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfansyahgg&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ristu-mactavish&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
 </div
