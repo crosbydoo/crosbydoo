@@ -50,6 +50,7 @@
 <p>
  </br>
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="https://www.linkedin.com/in/ristu-aji-5a553b207/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -61,10 +62,17 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 </p>
 
+<br>
+<br>
+<br>
+<br>
 
+<div align="center"> 
  <h2 align="center"> Github Statistics 📈 </h2>
-  <div align="center"> 
-<a href="">
+ <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ristu-mactavish&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
 </div
+ 
+
+Credit by [CrosbyDev](https://github.com/ristu-mactavish)
