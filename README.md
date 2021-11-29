@@ -21,7 +21,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### Framework
+### Framework ✨
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 
@@ -34,7 +34,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Device and OS
+### Device and OS 🖥
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -64,9 +64,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
  <h2 align="center"> Github Statistics 📈 </h2>
   <div align="center"> 
-<!-- <a href="">
+<a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alfansyahgg&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a> -->
+    </a>
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfansyahgg&theme=react&line_height=40&hide=css"/>
     </a>
