@@ -8,9 +8,9 @@
 - 🔭 &nbsp; I’m currently Learning Javascript Application Development
 - 🤔 &nbsp; Exploring new technologies and curious about new skill.
 - 🎓 &nbsp; Studying Informatics.
-- 💼 &nbsp; Novice in Android and Frond-End Development.
-- 🌱 &nbsp; Interested in cyber Security.
-- ✍️ &nbsp; Watching Anime and Gaming as Hobbies.
+- 💼 &nbsp; Apprentice in Android and Frond-End Development.
+- 🌱 &nbsp; Interested in Cyber Security.
+- ✍️ &nbsp; Coding, Watching Anime and Gaming as Hobbies.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
 ### Languages 🛠 
