@@ -11,7 +11,7 @@
 - 💼 &nbsp; Apprentice in Android and Frond-End Development.
 - 🌱 &nbsp; Interested in Cyber Security.
 - ✍️ &nbsp; Coding, Watching Anime and Gaming as Hobbies.
-- ☕ &nbsp; I believe, pray and have a perfect cup of coffee can be the ultimate solution for any stress.
+- ☕ &nbsp; I believe, pray to God The Almighty and have a perfect cup of coffee can be the ultimate solution for any stress.
 
 ### Languages 🛠 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
