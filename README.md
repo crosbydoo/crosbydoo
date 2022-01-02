@@ -1,5 +1,4 @@
-# Privet 👋, I'm Ristu <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-
+# Privet 👋, I'm Ristu
 <!-- <img hight="400" width="400" alt="GIF" align="center" src="https://media.giphy.com/media/HEFATVQvnjXg3vCGPu/giphy.gif"> -->
 
 <h3> 👨🏻‍💻 About Me </h3>
