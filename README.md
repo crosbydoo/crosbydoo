@@ -73,9 +73,7 @@ JOIN WITH ME
 
 <div align="center"> 
  <h2 align="center"> Github Statistics 📈 </h2>
- <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ristu-mactavish&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
+ <img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
 </div
  
 
