@@ -63,7 +63,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 JOIN WITH ME
 <p>
-  <a href="https://discord.com/invite/gNw5w2r"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/9BquyyB7VJ"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
  
 <br>
