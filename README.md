@@ -1,16 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ristu Aji</h1>
-<h3 align="center">Mobile and Web Development Enthusiast</h3>
-
+<h1 align="left">Hi 👋, I'm Ristu Aji</h1>
+<h3 align="left">Mobile and Web Development Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crosbydoo&label=Profile%20views&color=0e75b6&style=flat" alt="crosbydoo" /> </p>
 
 - 🌏 I’m based in **Yogyakarta, Indonesia**
-
 - 🧠 I’m currently learning **Flutter and Javascript (Vue and Node)**
-
 - 🖥️ See my portfolio at [portfolio](https://crosbydev.vercel.app/)
-
 - ✉️ You can contact me at [xxristuaji141@gmail.com](mailto:xxristuaji141@gmail.com)
-
 - 🤝 I'm open to **collaborating on interesting projects**
 
 <h3 align="left">Connect with me:</h3>
