@@ -10,6 +10,7 @@ I've been learning to code for two years...
 - 🖥️ See my portfolio at [portfolio](https://crosbydev.vercel.app/)
 - ✉️ You can contact me at [xxristuaji141@gmail.com](mailto:xxristuaji141@gmail.com)
 - 🤝 I'm open to **collaborating on interesting projects**
+- ⚡ Recite Quran is always best solution for me if i got stuck
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
