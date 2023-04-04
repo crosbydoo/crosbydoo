@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="left">Mobile and Web Development Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crosbydoo&label=Profile%20views&color=0e75b6&style=flat" alt="crosbydoo" /> </p>
 
+I've been learning to code for two years...
 - 🌏 I’m based in **Yogyakarta, Indonesia**
 - 🧠 I’m currently learning **Flutter and Javascript (Vue and Node)**
 - 🖥️ See my portfolio at [portfolio](https://crosbydev.vercel.app/)
