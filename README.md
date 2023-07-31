@@ -8,7 +8,7 @@ I've been learning to code for two years...
 - 🌏 I’m based in **Yogyakarta, Indonesia**
 - 🧠 I’m currently learning **Flutter and Javascript (Vue and Node)**
 - 🖥️ See my portfolio at [portfolio](https://crosbydev.vercel.app/)
-- ✉️ You can contact me at [xxristuaji141@gmail.com](mailto:xxristuaji141@gmail.com)
+- ✉️ You can contact me at [ristudev@gmail.com](mailto:ristudev@gmail.com)
 - 🤝 I'm open to **collaborating on interesting projects**
 - ⚡ Praying to Allah and Recite Quran is always best solution for me
 
