@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I've been learning to code for two years...
 - 🌏 I’m based in **Yogyakarta, Indonesia**
-- 🧠 I’m currently learning **Flutter and Javascript (Vue and Node)**
+- 🧠 I’m currently learning **Flutter and Javascript (Vue, Node, and React)**
 - 🖥️ See my portfolio at [portfolio](https://crosbydev.vercel.app/)
 - ✉️ You can contact me at [ristudev@gmail.com](mailto:ristudev@gmail.com)
 - 🤝 I'm open to **collaborating on interesting projects**
