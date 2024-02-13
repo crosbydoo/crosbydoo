@@ -44,7 +44,8 @@ I've been learning to code for two years...
 
 <h3 align="left">Mobile Framework Skill</h3>
 <p align="left">
-   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" /> </a> 
+   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" /></a>
+   <a href="https://swift.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40" height="40"/></a>
 </p>
    
   
