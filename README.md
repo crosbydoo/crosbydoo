@@ -3,6 +3,7 @@ Hi, I'm Ristu Aji ![](https://user-images.githubusercontent.com/18350557/1763097
 
 <h3 align="left">Mobile and Web Development Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crosbydoo&label=Profile%20views&color=0e75b6&style=flat" alt="crosbydoo" /> </p>
+![IndoGitHubers-badge](https://indogithubers-badge.vercel.app/badge?username=crosbydoo)
 
 I've been learning to code for two years...
 - 🌏 I’m based in **Yogyakarta, Indonesia**
