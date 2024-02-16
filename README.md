@@ -3,7 +3,7 @@ Hi, I'm Ristu Aji ![](https://user-images.githubusercontent.com/18350557/1763097
 
 <h3 align="left">Mobile and Web Development Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crosbydoo&label=Profile%20views&color=0e75b6&style=flat" alt="crosbydoo" /> </p>
-<p align="center">
+<p align="left">
   <a href="https://indogithubers.vercel.app/">
     <img src="https://indogithubers-badge.vercel.app/badge?username=crosbydoo" alt="IndoGitHubers Badge">
   </a>
