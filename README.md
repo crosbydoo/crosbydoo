@@ -12,7 +12,7 @@ Hi, I'm Ristu Aji ![](https://user-images.githubusercontent.com/18350557/1763097
 
 I've been learning to code for two years...
 - 🌏 I’m based in **Yogyakarta, Indonesia**
-- 🧠 I’m currently learning **Javascript (Vue, Node, and React) also Go**
+- 🧠 I’m currently learning **Fullstack JS and Go**
 - 🖥️ See my personal website at [ristu.dev](https://ristu.dev/)
 - ✉️ You can contact me at [ristudev@gmail.com](mailto:ristudev@gmail.com)
 - 🤝 I'm open to **collaborating on interesting projects**
